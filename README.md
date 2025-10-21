@@ -22,3 +22,4 @@ A **Java Swing** desktop application that provides users with personalized hea
 - **assessments** – (id, user_id, symptoms, top_conditions, advice, urgent, notes, created_at)
 
 
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/ad44802f-36a8-45fb-bc0c-ad6f8369afa4" />
