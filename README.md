@@ -21,7 +21,4 @@ A **Java Swing** desktop application that provides users with personalized hea
 - **users** – (id, name, age, sex, created_at)  
 - **assessments** – (id, user_id, symptoms, top_conditions, advice, urgent, notes, created_at)
 
-##  Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/adraj9999/HealthInsight.git
+
