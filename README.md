@@ -1,4 +1,4 @@
-# Health Insight �
+# Health Insight 
 
 A **Java Swing** desktop application that provides users with personalized health insights and preliminary diagnoses based on their reported symptoms.
 
